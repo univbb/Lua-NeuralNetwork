@@ -1,6 +1,6 @@
 # Lua-NeuralNetwork
 
-Single neuron neural network made on Lua, using sigmoid to activation function
+Single neuron neural network made on Lua, using sigmoid as activation function
 
 ```lua
 local neural = NeuralNetwork.new(0.1)
