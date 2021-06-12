@@ -2,6 +2,7 @@
 
 Single neuron neural network made on Lua, using sigmoid as activation function
 
+Example:
 ```lua
 local neural = NeuralNetwork.new(0.1)
 
