@@ -4,10 +4,10 @@
   @desc Single neuron neural network made on Lua, using sigmoid as activation function
   
   @constructor
-  -- NeuralNetwork.new(learningRate: Float)
+  -- NeuralNetwork.new(learningRate || 0.1: Float)
 
   @methods
-  -- NeuralNetwork:FeedForward(input: Number || 0.1): float
+  -- NeuralNetwork:FeedForward(input: Number): float
   -- NeuralNetwork:Backpropagate(input: Number, target: Number): void
 ]]
 -- * Setting seed
